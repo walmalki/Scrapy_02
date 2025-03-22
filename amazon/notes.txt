@@ -1,0 +1,8 @@
+1. Install the necessary library: If you haven't already, you'll need to install the VADER sentiment analyzer library.
+
+pip install vaderSentiment
+
+
+2. Install (pandas, numpy, scikit-learn, matplotlib, vaderSentiment)
+
+pip install pandas numpy scikit-learn matplotlib vaderSentiment
