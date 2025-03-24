@@ -32,5 +32,5 @@ venv/
 config.json
 settings.py
 *.txt
-data
-data2
+data/
+data2/
