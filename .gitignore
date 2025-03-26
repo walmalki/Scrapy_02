@@ -30,6 +30,4 @@ venv/
 .log
 
 config.json
-*.txt
-data/
-data2/
+
